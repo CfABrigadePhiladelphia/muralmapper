@@ -1,5 +1,7 @@
 ## Mural Art Mapper 
 
+[![Join the chat at https://gitter.im/CfABrigadePhiladelphia/muralmapper](https://badges.gitter.im/CfABrigadePhiladelphia/muralmapper.svg)](https://gitter.im/CfABrigadePhiladelphia/muralmapper?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A CouchDB + Nodejs + Twitter application that crowdsources mural art mapping.
 
 CouchApps are web applications which can be served directly from [CouchDB](http://couchdb.apache.org). This gives them the nice property of replicating just like any other data stored in CouchDB. They are also simple to write as they can use the built-in jQuery libraries and plugins that ship with CouchDB.
